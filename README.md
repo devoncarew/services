@@ -1,3 +1,5 @@
+[![services](https://github.com/devoncarew/services/actions/workflows/build.yaml/badge.svg)](https://github.com/devoncarew/services/actions/workflows/build.yaml)
+
 A lightweight version of a DartPad backend.
 
 ## Running with the Dart SDK
